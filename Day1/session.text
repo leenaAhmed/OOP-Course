@@ -1,0 +1,17 @@
+Console.WriteLine("Number of :");
+        int num;
+        do
+        {
+            num = int.Parse(Console.ReadLine());
+            if (num < 0) continue;
+            Console.WriteLine("it's working");
+        } while (num != 0);
+        // while loop 
+        Console.WriteLine("Number of :");
+        int x = int.Parse(Console.ReadLine());
+        while (x != 0)
+        {
+            num = int.Parse(Console.ReadLine());
+            if (x < 0) continue;
+            Console.WriteLine("it's working");
+        }
