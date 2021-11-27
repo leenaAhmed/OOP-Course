@@ -1,0 +1,16 @@
+C:\Users\ELBOSTAN\Desktop\Front Qena\OOP_Front_qena_Q2\DAy4\bin\Debug\net5.0\DAy4.exe
+C:\Users\ELBOSTAN\Desktop\Front Qena\OOP_Front_qena_Q2\DAy4\bin\Debug\net5.0\DAy4.deps.json
+C:\Users\ELBOSTAN\Desktop\Front Qena\OOP_Front_qena_Q2\DAy4\bin\Debug\net5.0\DAy4.runtimeconfig.json
+C:\Users\ELBOSTAN\Desktop\Front Qena\OOP_Front_qena_Q2\DAy4\bin\Debug\net5.0\DAy4.runtimeconfig.dev.json
+C:\Users\ELBOSTAN\Desktop\Front Qena\OOP_Front_qena_Q2\DAy4\bin\Debug\net5.0\DAy4.dll
+C:\Users\ELBOSTAN\Desktop\Front Qena\OOP_Front_qena_Q2\DAy4\bin\Debug\net5.0\ref\DAy4.dll
+C:\Users\ELBOSTAN\Desktop\Front Qena\OOP_Front_qena_Q2\DAy4\bin\Debug\net5.0\DAy4.pdb
+C:\Users\ELBOSTAN\Desktop\Front Qena\OOP_Front_qena_Q2\DAy4\obj\Debug\net5.0\DAy4.csproj.AssemblyReference.cache
+C:\Users\ELBOSTAN\Desktop\Front Qena\OOP_Front_qena_Q2\DAy4\obj\Debug\net5.0\DAy4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELBOSTAN\Desktop\Front Qena\OOP_Front_qena_Q2\DAy4\obj\Debug\net5.0\DAy4.AssemblyInfoInputs.cache
+C:\Users\ELBOSTAN\Desktop\Front Qena\OOP_Front_qena_Q2\DAy4\obj\Debug\net5.0\DAy4.AssemblyInfo.cs
+C:\Users\ELBOSTAN\Desktop\Front Qena\OOP_Front_qena_Q2\DAy4\obj\Debug\net5.0\DAy4.csproj.CoreCompileInputs.cache
+C:\Users\ELBOSTAN\Desktop\Front Qena\OOP_Front_qena_Q2\DAy4\obj\Debug\net5.0\DAy4.dll
+C:\Users\ELBOSTAN\Desktop\Front Qena\OOP_Front_qena_Q2\DAy4\obj\Debug\net5.0\ref\DAy4.dll
+C:\Users\ELBOSTAN\Desktop\Front Qena\OOP_Front_qena_Q2\DAy4\obj\Debug\net5.0\DAy4.pdb
+C:\Users\ELBOSTAN\Desktop\Front Qena\OOP_Front_qena_Q2\DAy4\obj\Debug\net5.0\DAy4.genruntimeconfig.cache
